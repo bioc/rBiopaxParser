@@ -1,8 +1,8 @@
 Package: rBiopaxParser
 Type: Package
 Title: Parses BioPax files and represents them in R
-Version: 2.27.0
-Date: 2016-08-26
+Version: 2.29.1
+Date: 2020-04-13
 Author: Frank Kramer
 Maintainer: Frank Kramer <dev@frankkramer.de>
 Description: Parses BioPAX files and represents them in R, at the moment BioPAX
